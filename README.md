@@ -12,6 +12,6 @@ listoperate.py里面<ins>只定义函数，没有定义类和方法</ins>
 ### Oct 4th 2026
 <ins>原来的listoperate.py将被作为反面教材保留，</ins>
 这个分支（main）我将保留下来，这是我的起点（虽然是个糟糕的开始，但是有一定的纪念意义），还请各位移步到最新的分支！
-<a href="https://github.com/ln1325/listoperate/edit/%E4%BF%AE%E6%94%B9%E5%90%8E%E7%9A%84listoperate">
+<a href="https://github.com/ln1325/listoperate/tree/%E4%BF%AE%E6%94%B9%E5%90%8E%E7%9A%84listoperate">
     修改后的listoperate
     </a>
